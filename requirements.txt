@@ -1,3 +1,5 @@
 streamlit
+pandas
+torch
 transformers
-torch  
+mysql-connector-python
